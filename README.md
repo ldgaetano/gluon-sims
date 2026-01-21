@@ -1,6 +1,6 @@
 # Gluon Stablecoin Protocol Simulations
 
-Simulation environment for testing and validating Gluon Z Reactor mechanics using the `pygluon` library.
+Simulation environment for testing and validating the Gluon stablecoin protocol mechanics using the `pygluon` library.
 
 ## Overview
 
